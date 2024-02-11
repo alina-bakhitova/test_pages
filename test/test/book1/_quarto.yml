@@ -1,5 +1,6 @@
 project:
-  type: book
+  type: website
+  output-dir: docs
 
 book:
   title: "A/B test"
@@ -8,7 +9,6 @@ book:
     - 01-intro.qmd
     - 02-cross-refs.qmd
     - 03-parts.qmd
-    - 04-citations.qmd
     - 05-blocks.qmd
     - 06-share.qmd
     - 07-references.qmd
