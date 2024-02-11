@@ -1,0 +1,18 @@
+project:
+  type: book
+
+book:
+  title: "A/B test"
+  chapters:
+    - index.qmd
+    - 01-intro.qmd
+    - 02-cross-refs.qmd
+    - 03-parts.qmd
+    - 04-citations.qmd
+    - 05-blocks.qmd
+    - 06-share.qmd
+    - 07-references.qmd
+
+format:
+  html:
+    theme: cosmo
